@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="welcome_please_make_your_reservation">Welcome! Please make your reservation!</string>
+    <string name="smoking_area">Smoking Area</string>
+    <string name="select_date">Select Date</string>
+    <string name="contact_number">Contact Number:</string>
+    <string name="name">Name:</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="select_time">Select Time</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+    <string name="do_you_wish_your_table_to_be_in_smoking_area_by_default_its_non_smoking_area">Reservate a table in smoking area: (default:on-smoking area)</string>
+</resources>
